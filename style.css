@@ -4,4 +4,8 @@ body {
 }
 .game {
     border: black 3px solid;
+    width: 50%;
+}
+h1 {
+    padding-top: 30px;
 }
