@@ -2,3 +2,6 @@ body {
     text-align: center;
     background-color: bisque;
 }
+.game {
+    border: black 3px solid;
+}
