@@ -21,6 +21,6 @@ h1 {
     color: lightgreen
 }
 #reset:hover{
-    background-color: red;
-    color: lightcoral
+    background-color: lightcoral;
+    color: red
 }
