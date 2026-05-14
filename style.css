@@ -4,8 +4,14 @@ body {
 }
 .game {
     border: black 3px solid;
-    width: 50%vw;
+    width: 50vw;
 }
 h1 {
     padding-top: 30px;
+}
+#submit {
+    margin: 10px;
+}
+#reset {
+    margin: 10px;
 }
