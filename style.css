@@ -24,3 +24,8 @@ h1 {
     background-color: lightcoral;
     color: red
 }
+.input-area {
+    border: black 3px solid;
+    width: 50vw;
+    margin: auto;
+}
